@@ -4,7 +4,7 @@ export default function Credit() {
   return (
     <div class="credit">
       <p>
-        Coded by jkghjgj
+        Coded by
         <a href="/"> Amrit Raj</a>,{" "}
         <a href="https://github.com/Amrit1459/weather-app">
           Open sourced on Github.
